@@ -1,0 +1,31 @@
+{
+  "name": "nodedbmanage",
+  "version": "1.0.0",
+  "description": "nodejs-postgresql-data-manage-in-small-sizes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaturelLee/nodeDBManage.git"
+  },
+  "keywords": [
+    "nodejs",
+    "postgresql",
+    "dataManage"
+  ],
+  "author": "NaturelLee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaturelLee/nodeDBManage/issues"
+  },
+  "homepage": "https://github.com/NaturelLee/nodeDBManage#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "hrstopwatch": "^1.1.0",
+    "md5": "^2.2.1",
+    "pg": "^7.4.1",
+    "restling": "^0.9.1"
+  }
+}
